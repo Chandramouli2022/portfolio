@@ -69,7 +69,7 @@
   font-weight: 700;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   .project {
     height: 300px;
   }
